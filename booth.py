@@ -1,1 +1,1 @@
-print ("Booth.co is a failed project")
+print ("Booth.Co would be successful one day!")
